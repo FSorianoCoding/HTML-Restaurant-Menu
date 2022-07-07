@@ -86,3 +86,18 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+/* Adding class for nav bar highlight */
+.highlight {
+    color: blue;
+}
+
+footer {
+    width: 100%;
+    padding: 15px;
+    background-color: lightblue;
+}
+
+footer p {
+    color: brown
+}
